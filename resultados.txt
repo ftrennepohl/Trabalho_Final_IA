@@ -1,0 +1,1409 @@
+==================================================
+Amostra 1:
+Tamanho: 1.33mb
+Qtd. de palavras: 150
+Língua: inglês americano
+Características: boa qualidade de áudio, baixo nível de ruídos, cadência normal de fala, trechos cantados
+
+So, do you recognize any of these men? I was hiding in the bathroom stall so I didn't see his face, but I heard him. He was singing along to the music at the bar. Do you remember what he was singing? I think it was that song, I Want It That Way. Backstreet Boys, I'm familiar. Okay. Number one, could you please sing the opening to I Want It That Way? Really? Okay. You are my fire. Number two, keep it going. The one desire. Number three. Believe when I say. Number four. I want it that way. Tell me why. Ain't nothing but a heartache. Tell me why. Ain't nothing but a mistake. Now number five. I never wanna hear you say. Woo! I want it that way. Ah, chills. Literal chills. It was number five. Number five killed my brother. Oh my God, I forgot about that.
+--------------------------------------------------
+Modelo: tiny
+text:
+ So, do you recognize any of these men? I was hiding in the vacuum stall so I didn't see his face, but I heard him. He was singing along to the music at the bar. Do you remember what he was singing? I think he was that song. I want it that way. Backstreet boys, I'm familiar. Okay. Number one, could you please sing the opening to I want it that way? Really? Okay. You are my fire. Number two, keep it going. Number one, desire. Number three, Number four, Number four, I want it that way. Tell me why. Ain't nothing but a heartache. Tell me why. Ain't nothing but a mistake. Number five, I never want to hear you say. I want it that way. Oh, chills. Literal chills. It was number five. Number five killed my brother. Oh my god, I forgot about that part.
+
+
+language:
+en
+
+tempo: 6.589s
+Palavras erradas: 11 de 150
+Taxa de erro: 7.333%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: tiny.en
+text:
+ So, do you recognize any of these men? I was hiding in the bathroom stall so I didn't see his face, but I heard him. He was singing along to the music at the bar. Do you remember what he was singing? I think he was that song I want it that way. Backstreet Boys, I'm familiar. Okay. Number one, could you please sing the opening to I want it that way? Really? Okay. You are my fire. Number two, keep it going. The one desire. Number three, when I say... Number four, I want it that way. Tell me why. Ain't nothing but a heartache. Tell me why. Ain't nothing but a mistake. No number five. I never wanna hear you say... I want it that way. Oh, chills. Literal chills. It was number five. Number five killed my brother. Oh my God, I forgot about that part.
+
+
+language:
+en
+
+tempo: 6.183s
+Palavras erradas: 5 de 150
+Taxa de erro: 3.333%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small
+text:
+ So, do you recognize any of these men? I was hiding in the bathroom stall so I didn't see his face, but I heard him. He was singing along to the music at the bar. Do you remember what he was singing? I think it was that song, I Want It That Way. Backstreet Boys, I'm familiar. Okay. Number one, could you please sing the opening to I Want It That Way? Really? Okay. You are my fire. Number two, keep it going. The one desire. Number three, believe when I say. Number four, I Want It That Way. Tell me why. Ain't nothing but a heartache. Tell me why. Ain't nothing but a mistake. Now number five, I never want to hear you say. Woo! I Want It That Way. Ah, chills, literal chills. It was number five. Number five killed my brother. Oh my God, I forgot about that part.
+
+
+language:
+en
+
+tempo: 31.752s
+Palavras erradas: 1 de 150
+Taxa de erro: 0.667%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small.en
+text:
+ So, do you recognize any of these men? I was hiding in the bathroom stall so I didn't see his face, but I heard him. He was singing along to the music at the bar. Do you remember what he was singing? I think it was that song, I Want It That Way. Backstreet Boys, I'm familiar. Okay. Number one, could you please sing the opening to I Want It That Way? Really? Okay. You are my fire. Number two, keep it going. The one desire. Number three, believe when I say. Number four, I want it that way. Tell me why. Ain't nothing but a heartache. Tell me why. Ain't nothing but a mistake. Now number five, I never want to hear you say. I want it that way. Chills, literal chills. It was number five. Number five killed my brother. Oh my God, I forgot about that part.
+
+
+language:
+en
+
+tempo: 28.548s
+Palavras erradas: 3 de 150
+Taxa de erro: 2.000%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base
+text:
+ So do you recognize any of these men? I was hiding in the vacuum stall so I didn't see his face, but I heard him. He was singing along to the music at the bar. Do you remember what he was singing? I think it was that song I wanted that way. Backstreet Boys, I'm familiar. Okay. Number one, could you please sing the opening to I Want It That Way? Really? Okay. You are my fire. Number two, keep it going. The one, desire. Number three, believe when I say. Number four, I Want It That Way. Tell me why. Ain't nothing but a heartache. Tell me why. Ain't nothing but a mistake. Number five, I never want to hear you sing. I Want It That Way. Ah, chills, literal chills. It was number five. Number five killed my brother. Oh my God, I forgot about that part.
+
+
+language:
+en
+
+tempo: 12.268s
+Palavras erradas: 6 de 150
+Taxa de erro: 4.000%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base.en
+text:
+ So, do you recognize any of these men? I was hiding in the bathroom stall so I didn't see his face, but I heard him. He was singing along to the music at the bar. Do you remember what he was singing? I think it was that song, I want it that way. Backstreet boys, I'm familiar. Okay. Number one, could you please sing the opening to I Want It That Way? Really? Okay. You are my fire. Number two, keep it going. The one desire. Number three, believe when I say. Number four, I want it that way. Tell me why. Ain't nothing but a heartache. Tell me why. Ain't nothing but a mistache. No number five. I never want to hear you say. I want it that way. Ah, chills, literal chills. It was number five. Number five killed my brother. Oh my god, I forgot about that part.
+
+
+language:
+en
+
+tempo: 11.154s
+Palavras erradas: 4 de 150
+Taxa de erro: 2.667%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium
+text:
+ So, do you recognize any of these men? I was hiding in the bathroom stall, so I didn't see his face, but I heard him. He was singing along to the music at the bar. Do you remember what he was singing? I think it was that song, I Want It That Way. Backstreet Boys. I'm familiar. Okay. Number one, could you please sing the opening to I Want It That Way? Really? Okay. You are my fire Number two, keep it going. I want the one desire Number three, believe when I say Number four, I want it that way Tell me why Ain't nothing but a heartache Tell me why Ain't nothing but a mistake Now number five, I never want to hear you say I want it that way Ah, chills. Literal chills. It was number five. Number five killed my brother. Oh my god, I forgot about that part.
+
+
+language:
+en
+
+tempo: 181.077s
+Palavras erradas: 2 de 150
+Taxa de erro: 1.333%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium.en
+text:
+ So, do you recognize any of these men? I was hiding in the bathroom stall so I didn't see his face, but I heard him. He was singing along to the music at the bar. Do you remember what he was singing? I think it was that song, I Want It That Way. Backstreet Boys, I'm familiar. Okay. Number one, could you please sing the opening to I Want It That Way? Really? Okay. You are my fire. Number two, keep it going. The one desire. Number three. Believe when I say. Number four. I want it that way. Tell me why. Ain't nothing but a heartache. Tell me why. Ain't nothing but a mistake. Now number five. I never wanna hear you say. Woo! I want it that way. Ah, chills. Literal chills. It was number five. Number five killed my brother. Oh my God, I forgot about that part.
+
+
+language:
+en
+
+tempo: 122.536s     
+Palavras erradas: 0 de 150
+Taxa de erro: 0.000%
+--------------------------------------------------
+
+
+==================================================
+Amostra 2:
+Tamanho: 1.09mb
+Qtd. de palavras: 104
+Língua: inglês americano
+Características: alto nível de ruídos, sotaque, trechos com múltiplas vozes
+
+Even though we face the difficulties of today and tomorrow, I still have a dream. Yes. It is a dream deeply rooted in the American dream. I have a dream that one day... yes ...this nation will rise up and live out the true meaning of its creed. We hold these truths to be self-evident that all men are created equal... yes ...I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will they be able to sit down together at the table of brotherhood. I have a dream.
+--------------------------------------------------
+Modelo: tiny
+text:
+ Even though we face the difficulties of today and tomorrow, I still have a dream. Yes. It is a dream deeply rooted in the American dream. I have a dream that one day, this nation will rise up, live out the true meaning of its dream. We hold these truths to be self-evident that all men are created each. That dream that one day on the red hills of joy, sons of former slaves and of sons of former slave owners, will be able to sit down together at the table of brotherhood. I have a dream.
+
+
+language:
+en
+
+tempo: 8.421s
+Palavras erradas: 12 de 104
+Taxa de erro: 11.538%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: tiny.en
+text:
+ Even though we face the difficulties of today and tomorrow, I still have a dream. Yes. It is a dream deeply rooted in the American dream. I have a dream that one day, this nation will rise up and live out the true meaning of its dream. We hold these truths to be self-evident that all men are created each other. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. So they'd be able to sit down together at the table of brotherhood. Yes. Thank you.
+
+
+language:
+en
+
+tempo: 5.850s
+Palavras erradas: 32 de 104
+Taxa de erro: 30.769%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small
+text:
+ Even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream. I have a dream that one day this nation will rise up and live out the true meaning of its creed. We hold these truths to be self-evident that all men are created each other. I have a dream that one day on the Red Hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood. I have a dream.
+
+
+language:
+en
+
+tempo: 20.352s
+Palavras erradas: 5 de 104
+Taxa de erro: 4.808%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small.en
+text:
+ Even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream. I have a dream that one day this nation will rise up and live out the true meaning of its creed. We hold these truths to be self-evident that all men are created equal. I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood. I have a dream.
+
+
+language:
+en
+
+tempo: 21.050s
+Palavras erradas: 4 de 104
+Taxa de erro: 3.846%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base
+text:
+ Even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream. I have a dream that one day this nation will rise up and live out the true meaning of its dreams. We hold these truths to be self-evident that all men are created. I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood. I have a dream.
+
+
+language:
+en
+
+tempo: 8.920s
+Palavras erradas: 6 de 104
+Taxa de erro: 5.769%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base.en
+text:
+ Even though we face the difficulties of today and tomorrow, I still have a dream. Yes. It is a dream deeply rooted in the American dream. I have a dream that one day this nation will rise up and live out the true meaning of its creed. We hold these truths to be self-evident that all men are created each other. I have a dream that one day on the Red Hills of George, the sons of former slaves and the sons of former slave owners, will they be able to sit down together at the table of brotherhood. I have a dream.
+
+
+language:
+en
+
+tempo: 7.965s
+Palavras erradas: 4 de 104
+Taxa de erro: 3.846%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium
+text:
+ Even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream. I have a dream that one day this nation will rise up and live out the true meaning of its creed. We hold these truths to be self-evident that all men are created equal. I have a dream that one day on the Red Hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood. I have a dream.
+
+
+language:
+en
+
+tempo: 83.075s
+Palavras erradas: 4 de 104
+Taxa de erro: 3.846%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium.en
+text:
+ Even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream. I have a dream that one day this nation will rise up and live out the true meaning of its creed. We hold these truths to be self-evident that all men are created equal. I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood. I have a dream.
+
+
+language:
+en
+
+tempo: 84.096s
+Palavras erradas: 4 de 104
+Taxa de erro: 3.846%
+--------------------------------------------------
+
+
+==================================================
+Amostra 3:
+Tamanho: 3.52mb
+Qtd. de palavras: 479
+Língua: inglês americano
+Características: música, efeitos de voz, efeitos sonoros, palavras em línguas estrangeiras
+
+よ！ じゃぁ 行こうぞ！ ジャンケンポン！ They tell me, "Keep it simple", I tell them, "Take it slow" I feed and water an idea so I let it grow I tell them, "Take it easy", they laugh and tell me, "No" It's cool but I don't see them laughing at my money though They spitting facts at me, I'm spitting tracks, catch me? I'm spinning gold out my records, know you can't combat me They tell me, "Jesus walks", I tell them, "Money talks" Bling got me chill, 'cause I'm living in an icebox They tell me I've been sleeping, I say, "I'm wide awake" Tracks hot and ready so they call me Mister Easy-Bake They say the grass is greener, I think my grass is dank Drivin' with a drank on an empty tank to the bank Do you feel me? Take a look inside my brain The people always different but it always feels the same That's the real me, pop the champagne The haters wanna hurt me and I'm laughin' at the pain Stayin' still, eyes closed Let the world just pass me by Pain pills, nice clothes If I fall, I think I'll fly Touch me, Midas Make me part of your design None to guide us I feel fear for the very last time They tell me that I'm special, I smile and shake my head I'll give them stories to tell friends about the things I said They tell me I'm so humble, I say, "I'm turning red" They let me lie to them and don't feel like they've been misled They give so much to me, I'm losing touch, get me? Served on a silver platter, ask for seconds, they just let me They tell me I'm a god, I'm lost in the facade Six-feet off the ground at all times, I think I'm feeling odd No matter what I make, they never see mistakes Makin' so much bread, I don't care that they're just being fake They tell me they're below me, I act like I'm above The people blend together but I would be lost without their love Can you heal me? Have I gained too much? When you become untouchable, you're unable to touch Is there a real me? Pop the champagne It hurts me just to think and I don't do pain Stayin' still, eyes closed Let the world just pass me by Pain pills, nice clothes If I fall, I think I'll fly Touch me, Midas Make me part of your design None to guide us I feel fear for the very last time Lay still, restless Losing sleep while I lose my mind All thrill, no stress All my muses left behind (left behind) World is below So high up, I'm near-divine (I'm so high up) Lean in, let go I feel fear for the very last time  
+--------------------------------------------------
+Modelo: tiny
+text:
+They tell me stupid simple I tell them to make it slowI feed them water and ideas so I land and growI tell them to make it easyThey laugh and tell me no it's cool but I don't see them laughingThat my money thoughThey spin facts at meI'm straight in tracks catch meI'm spin and gold I'm our recordsNo you can't compare meThey tell me Jesus walksI tell them money talks blankGot me to your console living in a nice boxThey tell me I'm in smokingI say I'm why don't wait tracks hot and brandySo they call me missing easy pickThey say that this is cleanerI did my crisis day and tried them with the trackOn the nifty tank to the bankTo your family take a lookI'm a brainThe people always peopleMurder always feels the sameThat's the pointThe shit people they hateThere's one on the endI want to get that to payThey tell me I'm in smokeLet the world just pass me byI make billsI smokeI'm my oneI make a lieI touch meI hate us make me burnYou're designI'm not youI hate usYou're more than merry last timeIt's tell me that I'm specialI say I'm in a cheap my headI'll keep those storiesI tell brands about the things I saidThey tell me I'm so humbleI say I'm turning redThey let me lie to themIt's don't be like they've been misledThey use so much to tell meI'm in search of youIt's a fun and super platterAs per secondIt's just like meThey tell me I'm a GodI'm lost in no besidesIt's if you don't the groundIt all times I think I'm feeling oddNo matter what I makeThey never see mistakesMake it so much funI don't care that they're just the impingThey tell me people I'm inI act like I'm a bumpThe people once againBut I would be lost with comfortI loveCan you hear me?I'm in my pain too muchWhen you become a touchI'm new by they all touchIs there what you meanPot the champagneThey're just meJust a big am I too to painStating soonI's goneLet's goJust ask me by IThey give us nice goalsIf I'm wrongI think I'm like I'mTouch meI'm a sming meFor whom you're designI'm a chillI'm a kind of side viewBeal the very lastLet me stealLet's listI'm a fizzWanna yeahNo stressI'm my fusesLet me cryI'm a fizzBeal the so high upI'm here to buyI'm leavingLet goI'm a real beautiful and very last time
+
+
+language:
+ja
+
+tempo: 44.373s
+Palavras erradas: 255 de 479
+Taxa de erro: 53.236%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: tiny.en
+text:
+ The girls! mangosia, look at all those kids review them. I'm dead! Ahhh! Music They tell me keep it simple I tell them take it slow I feed in water and I do you so while in a grow I tell them take it easy They laugh and tell me no It's cool but I don't see them laughing Now my money though It's been facts at me I'm spitting tracks, catch me I'm spitting and gold at my records No you can't compare me They tell me Jesus walks I tell them runny Talks bling got me to your cussle Living in an ice box They tell me I'm slipping I say I'm wide awake Tracks hot and friendly So they call me missing Easy big They say that this is greater I did my crisis Dang, try to whip the track Holding empty tank To the bank To your feeling Take a look Cause I'm a brain The people always be reminded Always feels the same That's the pain Top the champagne All the haters wanna Rean and watch it that's pain Dave and still High schools left the world Just pass me by eye Make bells High schools In my heart I think I'll lie I touch me Might us make me part Of your desire Not you Guide us up Feel few more than very last time And tell me that I'm special I smile and treat my head I'll get those stories To tell brands about the things I said They tell me that I'm so humble I say I'm turning red They let me lie The men that don't feel like they do this land They give so much to me I'm losing touch Get me Turned on the silver platter As for seconds We just let me They tell me I'm a god I'm lost in the facades To speed off the ground At all times I think I'm feeling odd No matter what I make They never see mistakes Making so much men I don't care that they're just being big They tell me people are me I act like I'm above And people point together But I would be lost without their love Can you hear me have I came too much? When can we come and tell you When you're unable to touch? Is there a pill we pop the champagne? They will tweet just a big animal Too too vain Stayed in still High school left the world Just pass me by eye Make it built High schools If I grow I think I'll die I touch me Might us make me part of your desire Not you Guide us up You'll be more than very Last time Ladies and gentlemen Last list The 16th one I lose my life I don't want to feel No stress All my views is left behind I'm a god I'm a god Be low So high up I'm here to buy I'm a god Leave it Let go I feel beautiful I'm a very last time
+
+
+language:
+en
+
+tempo: 25.732s
+Palavras erradas: 118 de 479
+Taxa de erro: 24.635%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small
+text:
+ Caribbean and They tell me keep it simple, I tell them take it slow I feed it water and ideas so I let it grow I tell them take it easy, they laugh and tell me no It's cool but I don't see them laughing at my money though They spin facts at me, I'm spinnin' tracks, catch me I'm spinnin' gold at my records, no you can't compare me They tell me Jesus walks, I tell them money talks blink Got me chill cuz I'm livin' in an icebox They tell me I've been sleepin', I say I'm wide awake Tracks hot and pretty so they call me Missy Beasy Pink They say the grass is greener, I did my grass is dank Drive them with a drink, on an empty tank till the bank Do you feel me, take a look inside my brain The people always be for what it always feels to see That's the real me, pop the champagne The haters wanna hurt me and I'm life hit and I'm pain Dane's still, ice cold, left the world just ask me by eye Make bills, nice clothes, if I'm all I think I'll lie Touch me, might as make me part of your design I'm the two guys aside, feel fearful the very last time I'm the one who's gonna tell me that I'm special I smile and shake my head, I'll give them stories to tell Brands about the things I said, they tell me I'm so humble I say I'm turning red, they let me lie to them And don't feel like they've been misled Thank you so much to me, I'm losing touch get me Served on a super platter, ask for seconds, they just let me They tell me I'm a god, I'm lost in no facade Seats feet off the ground, at all times I think I'm feelin' odd No matter what I make, they never see mistakes Making so much money, I don't care that they're just being fake I know I'm neat, I act like I'm above And people blend together, but I would be lost without their love Can you hear me, have I gained too much? When you become attention, will you unable to touch? Is there a real need, possibly champagne? It hurts me just to think, and I don't to pay Stay still, eyes closed, left the world just ask me by eye Make bills, nice clothes, if I'm all I think I'll lie Touch me, minus, make me part of your desire None to guide us, I feel fear for the very last time Stay still, restless, losing sleep while I lose my mind All the pill, no stress, all my muses left behind My tears, below, so high up, I'm fear to lie I need it, let go, I feel fear for the very last time Thank you for watching!
+
+
+language:
+en
+
+tempo: 96.830s
+Palavras erradas: 83 de 479
+Taxa de erro: 17.328%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small.en
+text:
+ Sarah is in love. I'm so ah- health! I'm sad. Yeah. Yeah. So this is what we're about. They tell me keep it simple, I tell them take it slow I feed it water and ideas so I let it grow I tell them take it easy, they laugh and tell me no It's cool but I don't see them laughing at my money though They spitting facts at me, I'm spitting tracks catch me I'm spitting gold, out my records, no you can't combat me They tell me Jesus walks, I tell them honey talks blink Got me chill cause I'm living in an icebox They tell me I've been slipping, I say I'm wide awake The tracks hot and pretty so they call me missing easy big They say the grass is greeter, I dig my grasses, dang drive em with a drag Hold a nifty tank till the bank, do your feeling take a look inside my brain The people always pick one but it always feels the same That's the beauty of the champagne, the haters wanna hurt me and I'm laughing at the pain Dain cell, ice clothes, let the world just pass me by Make bills, nice clothes, if I fall I think I'll fly, yeah Touch me, might as, make me part of your desire And to guide us, I feel fearful the very last time I'm a god, I'm lost in no facade Six feet off the ground, at all times I think I'm feeling odd No matter what I make They never see mistakes, making so much men I don't care that they're just being fake They tell me they're below me, I act like I'm above the people blind together But I would be lost without their love Can you hear me have I gained too much? When you become a touch, a lawyer unable to touch Is there a real need, pop the champagne? It hurts me just to think am I told to pay Dain cell, ice clothes, let the world just pass me by Make bills, nice clothes, if I fall I think I'll fly, yeah Touch me, might as, make me part of your desire And to guide us, I feel fearful the very last time Ladies still, restless, losing sleep While I lose my mind All the bill, no stress, all my views is left behind Will this be love so high up, I fear to buy it, leave it, let go I feel fearful the very last time
+
+
+language:
+en
+
+tempo: 88.001s
+Palavras erradas: 143 de 479
+Taxa de erro: 29.854%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base
+text:
+ Let's go! Let's go! Let's go! Let's go! They tell me keep it simple, I tell them take it slow. I feed in water and I do so while they grow. I tell them take it easy. They laugh and tell me no. It's cool but I don't see them laughing at my money though. It's been facts at me. I'm spending tracks catch me. I'm spending gold at my records. No you can't compare me. They tell me Jesus walks. I tell them money talks playing. Got me to a custom living in an ice box. They tell me I've been sleeping. I say I'm wide awake. Tracks hot and pretty. So they call me a CPC big. To the bank. To your feet and take a look inside my brain. The people always be my money. It always feels the same. That's the beauty of the ship. The haters wanna hurt me and I want you to be in the game. Dating chill, ice clothes left the world. Just pass me by. Hey, those nice clothes. If I fall, I think I'll fly. Touch me. Might as make me part of your design. Not you. Guide us, I feel you're for the very last time. I'm so happy. I'm so happy. I'm so happy. I'm so happy. I'm so happy. I'm so happy. I'm so happy. I'm so happy. I'm so happy. I'm so happy. Tell me that I'm special. I smile at you in my head. I'll get those stories to tell friends about the things I said. I say I'm turning red. They let me lie to them. Don't be like they think it's lag. They use so much to me. I'm losing touch. Get me. I'm a monster. I'm a monster. I'm a monster. I'm so happy. I'm so happy. I'm so happy. I'm so happy. I'm so happy. They ride over the bridge. Oh hello. Hello. Culture show. Hey? Hello. Okay, I pull back your Christina. I just have any questions you asked. Sorry, I'm just going to do quick sets. Just look at your The very last time Ladies, last, last, last, last, losing team While I lose my mind Oh, bill, no stress on my uses left behind My mind is below So, I got my fear to hide I believe it Let go, I feel fearful the very last time
+
+
+language:
+en
+
+tempo: 76.034s
+Palavras erradas: 205 de 479
+Taxa de erro: 42.797%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base.en
+text:
+This man was on his car and Puerto Rico Go get it! Aaaah! They tell me, keep it simple I tell them, take it slow I feed in water and I do you so I land and grow I tell them, take it easy They laugh and tell me no It's cool but I don't see them laughing at my money though They spin facts at me I'm spinning tracks, catch me I'm spinning gold on my records No you can't compare me They tell me Jesus walks I tell them money talks Blink out me too Cause I'm living in an ice box They tell me I've been sleeping I see I'm wide awake Tracks hot and pretty So they call me this a busy big They say the grass is greener I did my crisis day Drive them with a drink Hold an empty tank till the bank Do your thing and take a look I'm a brain The people always be reminded Always feels the same That's the beauty of the champagne The haters wanna hurry And I'll have to bend the pain Dave's ill Eyes closed Left the world just passed me by I Made bills Nice clothes If I'm all I think of I I Touch me Might as make me part of your desire Not you Guide us I feel You're both a very last time They tell me that I'm special I smile and cheat my head I'll get those stories To tell friends about the things I said They tell me I'm so humble I say I'm turning red They let me lie to them And don't feel like they do this land They use so much to me I'm losing touch Get me Turned on a super platter As per seconds They just let me They tell me I'm a god I'm lost enough aside Since we've lost the ground At all times I think I'm feeling odd No matter what I make They never see mistakes Making so much men I don't care that they're just being fake They tell me through below me I act like I'm above And people blend together But I would be lost without their love Can you hear me? Have my pain too much When you become a touch I'm a new unable to touch Is there a purely pop the champagne They're just a big am I told to pay Stating still Eyes closed Left the world just past me by eye Made bills Nice clothes If I go I think I'll lie I Touch me Might as make me part of your desire Not you Guide us I feel fear For the very last time Ladies still Restless Losing sleep While I lose my body I am ill No stress All my views is left behind I am ill To this below So high up my fear To my body I believe in Let go I feel fear For the very last time
+
+
+language:
+en
+
+tempo: 42.030s
+Palavras erradas: 100 de 479
+Taxa de erro: 20.877%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium
+text:
+ einz pantramyamじゃーいくぞーjamtenImmoThey tell me keep it simpleI tell them take it slowI feed em water and ideas so I let it growI tell them take it easy笑っている人は知らないいいけど、私は彼らが笑っている私のお金を持っている彼らは私にファックスを貼っている私はトラックを貼っている私はゴールドを貼っている私のレコードはあなたが私に気付くことを知っている彼らは私にジーゼスを歩く私は彼らのお金を話す私は冷静になっている私はアイスボックスに生きている彼らは私が眠っている私は目覚める人を言う熱いトラックを私をイシビンに呼んでいる彼らは私のお金が大きい私はグラスを作っている私は彼らが私を飲んでいる彼らは私を痛めることを嫌いしている私は冷静になっている私はアイスボックスに生きている私は世界を通り過ぎる私はアイスボックスに生きている私は彼らが私を見つけることを知っている私は触っている私は彼らが私を作っている私はアイスボックスに生きている私は彼らが私を見つけることを知っている私はアイスボックスに生きている彼らは私を特別に言う私は笑顔で頭を描く私は彼らの話を私が言ったことについて話す彼らは私を恥ずかしいと言う私は彼らが私を恥ずかしいと言う私は彼らが私を恥ずかしいと言う私は彼らがチェンジできるの判断して反 podiaについてできないと思っている私が会えたくなり私はその状況で彼らは lap QRを見ている tall私はできないことを知っている私には理由がない何も好きじゃない僕はびっくりしなくて��生きる私は彼らを惑ったzinho私は 愛がなくて partner自分が愛おしいI need youYou become a touchable, you're unable to touchIs there a real need?Possibly a painIt hurts me just to think and I don't to payStay still, eyes closedLet the world just pass me byMake pills, nice clothesIf I fall, I think I'll flyTouch me, bite usMake me part of your designNone to guide usI feel fear for the very last timeLazy still, restlessLosing sleep while I lose my mindAll ill, no stressAll my views is left behindWorld is belowSo high up, I'm here to flyLeave in, let goI feel fear for the very last time
+
+
+language:
+ja
+
+tempo: 732.588s
+Palavras erradas: 391 de 479
+Taxa de erro: 81.628%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium.en
+text:
+ up They tell me keep it simple, I tell them take it slow I feed them water and ideas so I let it grow I tell them take it easy, they laugh and tell me no It's cool but I don't see them laughing at my money though They spitting facts at me, I'm spitting tracks Catch me, I'm spitting gold out my records no you can't combat me They tell me Jesus walks, I tell them money talks Blink got me chill cause I'm living in an icebox They tell me I've been sleeping, I say I'm wide awake Tracks hot and pretty so they call me missing easy pig They say the grass is greener, I did my grasses dang Drive them with a drag on an empty tank Took the bank to your feet and take a look inside my brain The people always pay for it but it always feels the same Does the wheel meet hot, the champagne? The haters wanna hurt me and I laugh at that with pain Stay still, eyes closed, let the world just pass me by Paint pills, nice clothes, if I fall I think I'll fly Touch me, Midas, make me part of your design The two guide us, I feel fear for the very last time They tell me that I'm special, I smile and shake my head I'll give them stories to tell friends about the things I said They tell me I'm so humble, I say I'm turning red They let me lie to them and don't feel like they've been misled They give so much to me, I'm losing touch, get me Surfed on a silver platter, ask for seconds, they just let me They tell me I'm a god, I'm lost in a facade Six feet off the ground at all times, I think I'm feeling odd No matter what I make, they never see mistakes Making so much plan, I don't care that they're just being fake They tell me they're below me, I act like I'm above And people blend together, but I would be lost without their love Can you heal me, have I gained too much? When you become a touchable, you're unable to touch Is there a real me, pop the champagne? It hurts me just to think, am I told to pay? Stayed still, eyes closed, let the world just pass me by Paint pills, nice clothes, if I fall I think I'll fly Touch me, Midas, make me part of your design None to guide us, I feel fear for the very last time Lay still, restless, losing sleep while I lose my mind All pill, no stress, all my views is left behind World is below, so high up, I'm here to lie Leave in, let go, I feel fear for the very last time
+
+
+language:
+en
+
+tempo: 375.341s
+Palavras erradas: 53 de 479
+Taxa de erro: 11.065%
+--------------------------------------------------
+
+
+==================================================
+Amostra 4:
+Tamanho: 1.75mb
+Qtd. de palavras: 280
+Língua: inglês britânico
+Características: qualidade de áudio razoável, cadência de fala rápida
+
+This is a Paternoster lift. There are only a few working examples of these left in the world, like this one at the Arts Tower of Sheffield University. It is an open elevator shaft with a series of connected carriages going round and round and round in it on a constant loop. One side goes up, and one side goes down, and you just get in and out. This is a 20-storey building, by the way, so this is a long chain. A Paternoster can carry more passengers than a regular lift, although obviously there's a little bit more danger of trips, falls, and injuries. This particular lift has a lot of extra safety features to stop people getting injured too. But for that reason, and because they're inaccessible to anyone who can't walk or is carrying big things or can't walk well, and because there aren't many companies in the world that build or refurbish them anymore, they aren't installed. And those that are left tend to get ripped out of old buildings in the place. But Sheffield kept theirs, and they also have some more standard lifts, just in case. Now, I can't stay in this lift as it goes over the top, thank you Chris. I'd unbalance the whole thing, and I would risk it getting shut down and the fire brigade coming in and turfing me out. But what I can do is leave this little GoPro camera in to show you what it's like to go over the top. So... I'll see you in a couple of minutes. Here we go. See you in a minute. I'm looking forward to seeing the footage from this.
+--------------------------------------------------
+Modelo: tiny
+text:
+ This is a pattern of still lift. There are only a few working examples of these left in the world. Like this one at the Arts Tower of Sheppel University. It is an open elevator shaft where the series of connected carriages going round and round and round in it are constantly one side goes up and one side goes down and you just get in and out. This is a 20 story building by the way, so this is a long chain. A pattern of still can carry more passengers than a regular lift or by obviously a little bit more danger of trips, and injeers. This particular lift has a lot of extra safety features to stop people getting injured too. But for that reason and because they are inaccessible to anyone who can't walk or is carrying big things or can't walk well, and because there aren't many companies in the world that build or refurbish them anymore, they aren't installed. And those are RLF to tend to get ripped out of old buildings and replaced, but sheffield kept theirs, and they also have some more standard lifts just in case. Now I can't stay in this lift as it goes over the top. Thank you Chris. I don't balance the whole thing and I would risk it heading shut down and the fire brigade coming in and surfing me out. But what I can do is leave this little GoPro camera in to show you what it's like to go over the top. So I'll see you in a couple of minutes. Here we go. See you in a minute. I'm looking forward to seeing the footage from us.
+
+
+language:
+en
+
+tempo: 13.175s
+Palavras erradas: 24 de 280
+Taxa de erro: 8.571%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: tiny.en
+text:
+ This is a Patanasta lift. There are only a few working examples of these left in the world, like this one at the Arts Tower of Sheffield University. It is an open elevator shaft, where there are a series of connected carriages going round and round and round in it on a constant loop. One side goes up and one side goes down and you just get in and out. This is a 20-story building, by the way, so this is a long train. A Patanasta can carry more passengers in a regular lift, though obviously there's a little bit more danger of trips, falls and injuries. This particular lift has a lot of extra safety features to stop people getting injured too. But for that reason, and because they're inaccessible to anyone who can't walk or is carrying big things or can't walk well, and because there aren't many companies in the world that build or refurbish them anymore, they aren't installed. And those are our left tend to get ripped out of old buildings and replace, but Sheffield kept theirs, and they also have some more standard lifts, just in case. Now, I can't stay in this lift as it goes over the top. Thank you, Chris. I don't balance the whole thing, and I would risk getting shut down and the fire brigade coming in and surfing me out. But what I can do is leave this little GoPro camera in to show you what it's like to go over the top. So, I'll see you in a couple of minutes. Here we go. See you in a minute. I'm looking forward to seeing the footage from this.
+
+
+language:
+en
+
+tempo: 10.019s
+Palavras erradas: 14 de 280
+Taxa de erro: 5.000%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small
+text:
+ This is a Paternoster lift. There are only a few working examples of these left in the world, like this one at the Arts Tower of Sheffield University. It is an open elevator shaft with a series of connected carriages going round and round and round in it on a constant loop. One side goes up and one side goes down and you just get in and out. This is a 20 story building by the way, so this is a long train. A Paternoster can carry more passengers than a regular lift, although obviously there's a little bit more danger of trips, falls and injuries. This particular lift has a lot of extra safety features to stop people getting injured too. But for that reason, and because they're inaccessible to anyone who can't walk or is carrying big things or can't walk well, and because there aren't many companies in the world that build or refurbish them anymore, they aren't installed. And those that are left tend to get ripped out of old buildings and replaced, but Sheffield kept theirs and they also have some more standard lifts just in case. Now I can't stay in this lift as it goes over the top, thank you Chris. I'll unbalance the whole thing and I would risk it getting shut down and the fire brigade coming in and turfing me out. But what I can do is leave this little GoPro camera in to show you what it's like to go over the top. So, I'll see you in a couple of minutes. Here we go. See you in a minute. I'm looking forward to seeing the footage from this.
+
+
+language:
+en
+
+tempo: 46.406s
+Palavras erradas: 6 de 280
+Taxa de erro: 2.143%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small.en
+text:
+ This is a Paternoster lift. There are only a few working examples of these left in the world, like this one at the Arts Tower of Sheffield University. It is an open elevator shaft with a series of connected carriages going round and round and round in it on a constant loop. One side goes up, and one side goes down, and you just get in and out. This is a 20-storey building, by the way, so this is a long chain. A Paternoster can carry more passengers than a regular lift, although obviously there's a little bit more danger of trips, falls and injuries. This particular lift has a lot of extra safety features to stop people getting injured too. But for that reason, and because they're inaccessible to anyone who can't walk or is carrying big things or can't walk well, and because there aren't many companies in the world that build or refurbish them anymore, they aren't installed. And those that are left tend to get ripped out of old buildings and replace, but Sheffield kept theirs, and they also have some more standard lifts, just in case. Now, I can't stay in this lift as it goes over the top. Thank you, Chris. I unbalance the whole thing, and I would risk it getting shut down and the fire brigade coming in and turfing me out. But what I can do is leave this little GoPro camera in to show you what it's like to go over the top. So, I'll see you in a couple of minutes. Bye. Here we go. See you in a minute. So, I'm looking forward to seeing the footage from this.
+
+
+language:
+en
+
+tempo: 45.481s
+Palavras erradas: 4 de 280
+Taxa de erro: 1.429%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base
+text:
+ This is a patternasta lift. There are only a few working examples of these left in the world, like this one at the Arts Tower of Sheffield University. It is an open elevator shaft with a series of connected carriages going round and round and round in it on a constant loop. One side goes up and one side goes down and you just get in and out. This is a 20 story building by the way, so this is a long chain. A patternasta can carry more passengers than a regular lift although obviously there's a little bit more danger of trips, falls and injuries. This particular lift has a lot of extra safety features to stop people getting injured too. But for that reason and because they're inaccessible to anyone who can't walk or is carrying big things or can't walk well and because there aren't many companies in the world that build or refurbish them anymore, they aren't installed. And those are left to tend to get ripped out of all buildings in place, but Sheffield kept theirs and they also have some more standard lifts just in case. Now I can't stay in this lift as it goes over the top. Thank you Chris. I'm unbalanced the whole thing and I would risk getting shut down and the fire brigade coming in and turthing me out. But what I can do is leave this little GoPro camera in to show you what it's like to go over the top. So I'll see you in a couple of minutes. Here we go. See you in a minute. I'm looking forward to seeing the footage from this.
+
+
+language:
+en
+
+tempo: 16.346s
+Palavras erradas: 10 de 280
+Taxa de erro: 3.571%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base.en
+text:
+ This is a Patanasta lift. There are only a few working examples of these left in the world, like this one at the Arts Tower of Sheffield University. It is an open elevator shaft with a series of connected carriages going round and round and round in it on a constant loop. One side goes up and one side goes down and you just get in and out. This is a 20-story building, by the way, so this is a long chain. A Patanasta can carry more passengers than a regular lift, although obviously there's a little bit more danger of trips, falls and injuries. This particular lift has a lot of extra safety features to stop people getting injured too. But for that reason, and because they're inaccessible to anyone who can't walk or is carrying big things or can't walk well, and because there aren't many companies in the world that build or refurbish them anymore, they aren't installed. And those that are left tend to get ripped out of old buildings and replaced, but Sheffield kept theirs and they also have some more standard lifts just in case. Now I can't stay in this lift as it goes over the top. Thank you Chris. I've unbalanced the whole thing and I would risk it getting shut down and the fire brigade coming in and turfing me out. But what I can do is leave this little GoPro camera in to show you what it's like to go over the top. So I'll see you in a couple of minutes. Here we go. See you in a minute. I'm looking forward to seeing the footage from this. I'm looking forward to seeing the footage from this video.
+
+
+language:
+en
+
+tempo: 19.640s
+Palavras erradas: 7 de 280
+Taxa de erro: 2.500%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium
+text:
+ This is a Paternoster lift. There are only a few working examples of these left in the world, like this one at the Arts Tower of Sheffield University. It is an open elevator shaft, with a series of connected carriages going round and round and round in it on a constant loop. One side goes up, and one side goes down, and you just get in and out. This is a 20-storey building, by the way, so this is a long train. A Paternoster can carry more passengers than a regular lift, although obviously there's a little bit more danger of trips, falls and injuries. This particular lift has a lot of extra safety features to stop people getting injured too. But for that reason, and because they're inaccessible to anyone who can't walk, or is carrying big things, or can't walk well, and because there aren't many companies in the world that build or refurbish them anymore, they aren't installed. And those that are left tend to get ripped out of old buildings and replaced. But Sheffield kept theirs, and they also have some more standard lifts, just in case. Now I can't stay in this lift as it goes over the top, thank you Chris, I'd unbalance the whole thing and I would risk it getting shut down and the fire brigade coming in and turfing me out. But what I can do is leave this little GoPro camera in to show you what it's like to go over the top. So, I'll see you in a couple of minutes. Here we go. See you in a minute. I'm looking forward to seeing the footage from this.
+
+
+language:
+en
+
+tempo: 136.996s
+Palavras erradas: 4 de 280
+Taxa de erro: 1.429%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium.en
+text:
+ This is a Paternoster lift. There are only a few working examples of these left in the world, like this one at the Arts Tower of Sheffield University. It is an open elevator shaft with a series of connected carriages going round and round and round in it on a constant loop. One side goes up, and one side goes down, and you just get in and out. This is a 20-storey building, by the way, so this is a long train. A Paternoster can carry more passengers than a regular lift, although obviously there's a little bit more danger of trips, falls, and injuries. This particular lift has a lot of extra safety features to stop people getting injured too. But for that reason, and because they're inaccessible to anyone who can't walk or is carrying big things or can't walk well, and because there aren't many companies in the world that build or refurbish them anymore, they aren't installed. And those that are left tend to get ripped out of old buildings in the place. But Sheffield kept theirs, and they also have some more standard lifts, just in case. Now, I can't stay in this lift as it goes over the top, thank you Chris. I'd unbalance the whole thing, and I would risk it getting shut down and the fire brigade coming in and turfing me out. But what I can do is leave this little GoPro camera in to show you what it's like to go over the top. So... I'll see you in a couple of minutes. Here we go. See you in a minute. I'm looking forward to seeing the footage from this.
+
+
+language:
+en
+
+tempo: 125.720s
+Palavras erradas: 1 de 280
+Taxa de erro: 0.357%
+--------------------------------------------------
+
+
+==================================================
+Amostra 5:
+Tamanho: 2.50mb
+Qtd. de palavras: 497
+Língua: inglês britânico
+Características: variados níveis de ruído, cadência de fala e volume, nomes próprios e palavras estrangeiras
+
+I'm in Weldon Spring. I'm in Gävle. I'm in the abandoned city of Pripyat. I'm inside one of the Inchindown oil tanks. I'm off to the Arctic for  weeks. I am not inside a fusion reactor. I'm in Hull. I am in Morocco. I am at Disney World. I'm in Resolute. I'm in an airplane bathroom. I am in an unpowered glider. I am in Iceland. I'm standing in Europort. I'm in the British Museum. I'm flying a few thousand feet over Lincolnshire. I am at platform  and  quarters. I am under the English Channel. I am still in the Arctic. I'm in Gibraltar. I'm on Marylebone road. I'm on top of a hill. I'm on th street. I am squinting into the sun. I'm on Swanscombe peninsula. I'm in Swindon. I am in Baton Rouge. I am in Baarle-Hertog. I am outside the Bank of England. I'm in Cape May. I'm in the Computer History Museum. I am about to cross a road. I'm in Bristol. I am at the summit of Mount Evans. I'm on my way back from the Arctic. I am at Space Camp. I am exactly  miles away from the intersection of Beverly Boulevard and North Cienega Boulevard. I'm about to play bubble football. I am in Greenwich. I am putting myself at risk of being sued. I am in New Orleans. I am at one of the tallest wind farms in Europe. I am at a party. I'm at the Eureka weather station. I'm in the small village of Jelling. I am with Norm. I am back with Norm. Last time I was outside this pub with Norm, he taught me how to strangle someone. I am in the English Countryside near Canterbury, and this is a level crossing. I am in the One Canada Square in London and that is a beautiful sunset. This is an Ogham stone. This is a teach pendant. This is a teasmade. This is London's Cable Car. This is a packet and bottle of freeze dried urine. Behind me is Lake Constance, it is a big lake. This is a shipping container. This is a Soviet T- Battle Tank. This is a dead man. This is a bottle of Dasani. This is the Mixed Reality Lab. This is a Natural Spring. This is launch pad. This is the control room. This is Notre Dame. This used to be RAF Graveley. This is the Thames. This is the Kilogram. Up there is the bridge. This is a driverless vehicle. This is non-brewed condiment. These are the Solar Power Towers. That is the Angel of the North. This is the Ilulissat Ice fjord. This is Olkiluoto. This is Bruges. This is llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch. Welcome to the town of Asbestos. Welcome to Calapatria. Welcome to a town that doesn't exist. Welcome to Wales. The road behind me is closed. This is going to be a fairly disappointing video. I am back in the UK and I have a cold.
+--------------------------------------------------
+Modelo: tiny
+text:
+ I'm in Weldon Spring, I'm in Yevla, I'm in the abandoned city of Pripyat. I'm inside, all of the inch and down oil tanks. I'm off the Arctic for three weeks. I'm not inside a fusion reactor. I'm in Ho. I'm in Morocco. I'm at Disney World. I'm in Resolute. I'm in an air-flaring bathroom. I'm in an unpowered glider. I'm in Iceland. I'm standing in your report. I'm in the British Museum. I'm flying a few thousand feet out of my picture. I'm at Platform 9 and 3 quarters. I'm under the English Channel. I am still in the Arctic. I'm in Gibraltar. I'm on Marlombone Road. I'm on top of a hill. I'm on 50th Street. I am squinting into the sun. I'm on the Swan's Compatensive. I'm in Swindon. I'm in Baton Rouge. I'm in Barla Hurtard. I am outside the bank of England. I'm in Cape May. I'm at the computer history museum. I am about across a road. I'm in Bristol. I'm at the summit of Mount Evans. I'm on my way back from the Arctic. I'm at Space Camp. I'm exactly 30 miles away from the intersection of Beveli Boulevard. A North Lasiana Boulevard. I'm about to play the Boll Football. I am in Grannich. I'm putting myself at risk of being sued. I'm in New Orleans. I'm at one of the tallest wind farms in Europe. I'm at party. I'm at the Eureka Weather Station. I'm in the small village of Yelling. I'm with Norm. I am back with Norm. Last time I was outside this pub with Norm. He taught me how to struggle someone. I'm in the English countryside near Canterbury. This is a level crossing. I'm on the 94 of one calendar square in London. And that is a gorgeous sunset. This is an oven stone. This is a teach pendant. This is a tees made. This is London's cable car. This is a packet and bottle of freeze-dried urine. Behind me is Lake Constance. It is a big lake. This is a shipping container. This is a Soviet T34 battle tank. This is a dead man. This is a bottle of discerning. This is the mixed reality lab. This is a natural spray. This is launch pad 39. This is the control room. This is Notre Dame. This used to be RAF gravely. This is the temp. This is the kilogram. Up there is the bridge. This is a driverless vehicle. This is non-brewed condiment. These are the solar power towers. That is the angel of the north. This is the elicit ice-fjord. This is Alkalar tom. This is Brunge. This is a flanfar pylquingil kogari quim. Throbla lentisilio gogogogoch. Welcome to the town of asbestos. Welcome to Calapatria. Welcome to a town that doesn't exist. Welcome to Wales. The road behind me is closed. This is going to be a fairly disappointing video. I'm back in the UK and I have a cold.
+
+
+language:
+en
+
+tempo: 25.343s
+Palavras erradas: 82 de 497
+Taxa de erro: 16.499%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: tiny.en
+text:
+ I'm in welled and spring. I'm in Yevlai. I'm in the abandoned city of Pripyat. I'm inside one of the Inchondown oil tanks. I'm off to the Arctic for three weeks. I am not inside a fusion reactor. I'm in Hull. I am in Morocco. I am at Disney World. I'm in Resolute. I'm in an airplane battery. I am in an unpowered glider. I'm in Iceland. I'm standing in Europeport. I'm in the British Museum. I'm flying a few thousand feet of a Lincoln show. I'm at Platform 9 and 3 quarters. I am under the English Channel. I am still in the Arctic. I'm in Gibraltar. I'm on Marlebone Road. I'm on top of a hill. I'm on 5th Street. I am squinting into the sun. I'm on the Swans' Compadinsular. I'm in Swindon. I'm in Batter Rouge. I'm in Barla Hotel. I am outside the Bank of England. I'm in Cape May. I'm at the Computer History Museum. I am about to cross a road. I'm in Bristol. I'm at the summit of Mount Evans. I'm on my way back from the Arctic. I'm at Space Camp. I'm exactly 30 miles away from the intersection of Beverly Boulevard and North La Cienic Boulevard. I'm about to play Bubble Football. I am in Greenwich. I am putting myself at risk of being sued. I'm in New Orleans. I'm at one of the tallest wind farms in Europe. I'm at Party. I'm at the Eureka Weather Station. I'm in the small village of Yelling. I'm with Norm. I have back with Norm. Last time I was outside this pub with Norm. He taught me how to strangle someone. I'm in the English countryside near Canterbury. And this is a level crossing. I'm on the 94 of one kind of square in London. And that is a gorgeous sunset. This is an Ohamstone. This is a teach pendant. This is a tease made. This is London's cable car. This is a packet and bottle of freeze-dried urine. Behind me is Lake Constance. It is a big lake. This is a shipping container. This is a Soviet T34 Battle Tank. This is a dead man. This is a bottle of Dassani. This is the mixed reality lab. This is a natural spring. This is launch pad 39. This is the control room. This is Notre Dame. This used to be RAF gravely. This is the terms. This is the kilogram. Up there is the bridge. This is a driverless vehicle. This is non-brewed condiment. These are the solar power towers. That is the angel of the north. This is the Elleissat Icefjord. This is Alkylorto. This is Bruge. This is Hanfaal Puyl Kwingel Kogheri Queen Throbilanti Siliogogogogogogog. Welcome to the town of asbestos. Welcome to Calipatria. Welcome to a town that doesn't exist. Welcome to Wales. The road behind me is closed. This is going to be a fairly disappointing video. I am back in the UK and I have a cold.
+
+
+language:
+en
+
+tempo: 17.562s
+Palavras erradas: 62 de 497
+Taxa de erro: 12.475%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small
+text:
+ I'm in Weldon Spring. I'm in Yevley. I'm in the abandoned city of Pripyat. I'm inside one of the inch and down oil tanks. I'm off to the Arctic for three weeks. I am not inside a fusion reactor. I'm in Hull. I am in Morocco. I am at Disney World. I'm in Resolute. I'm in an airplane bathroom. I am in an unpowered glider. I am in Iceland. I'm standing in Yoroport. I'm in the British Museum. I'm flying a few thousand feet over Mankenshire. I am at Platform 9 and 3 quarters. I am under the English Channel. I am still in the Arctic. I'm in Gibraltar. I'm on Marlborough Road. I'm on top of a hill. I'm on 50th Street. I am squinting into the sun. I'm on the Swanskin Peninsula. I'm in Swindon. I am in Baton Rouge. I am in Bala Hurtung. I am outside the Bank of England. I'm in Cape May. I'm at the Computer History Museum. I am about to cross a road. I'm in Bristol. I'm at the summit of Mount Evans. I'm on my way back from the Arctic. I'm at Space Camp. I'm exactly 30 miles away from the intersection of Beverly Boulevard and North La Cienega Boulevard. I'm about to play bubble football. I am in Greenwich. I am putting myself at risk of being sued. I am in New Orleans. I am at one of the tallest wind farms in Europe. I am at a party. I'm at the Eureka Weather Station. I'm in the small village of Yelling. I am with Norm. I am back with Norm. Last time I was outside this pub with Norm, he taught me how to strangle someone. I'm in the English countryside near Canterbury and this is a level crossing. I'm on the 19th floor of one calendar square in London and that is a gorgeous sunset. This is an oomstone. This is a teach pendant. This is a tees made. This is London's cable car. This is a packet and bottle of freeze-dried urine. Behind me is Lake Constance. It is a big lake. This is a shipping container. This is a Soviet T-34 battle tank. This is a dead man. This is a bottle of Dasani. This is the mixed reality lab. This is a natural spring. This is launch pad 39. This is the control room. This is Notre Dame. This used to be RAF Gravely. This is the Thames. This is the Kilogram. Up there is the bridge. This is a driverless vehicle. This is non-brewed condiment. These are the solar power towers. That is the Angel of the North. This is the Illulisat Ice Fjord. This is Alkiluoto. This is Bruges. This is Flanfaipuilquinn Gilchoghariquinn Throballanti Siligogogogh. Welcome to the town of Asbestos. Welcome to Calapatria. Welcome to a town that doesn't exist. Welcome to Wales. The road behind me is closed. This is going to be a fairly disappointing video. I am back in the UK and I have a cold.
+
+
+language:
+en
+
+tempo: 82.925s
+Palavras erradas: 33 de 497
+Taxa de erro: 6.640%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small.en
+text:
+ I'm in Weldon Spring. I'm in Yevle. I'm in the abandoned city of Pripyat. I'm inside one of the inch and down oil tanks. I'm off to the Arctic for three weeks. I am not inside a fusion reactor. I'm in Hull. I am in Morocco. I am at Disney World. I'm in Resolute. I'm in an airplane battery. I am in an unpowered glider. I am in Iceland. I'm standing in Europort. I'm in the British Museum. I'm flying a few thousand feet over Lincolnshire. I'm at Platform 9 and 3 quarters. I am under the English Channel. I am still in the Arctic. I'm in Gibraltar. I'm on Marlabon Road. I'm on top of a hill. I'm on 50th Street. I am squinting into the sun. I'm on the Swanscombe Peninsula. I'm in Swindon. I am in Baton Rouge. I am in Barla Hirtog. I am outside the Bank of England. I'm in Cape May. I'm at the Computer History Museum. I am about to cross a road. I'm in Bristol. I'm at the summit of Mount Evans. I'm on my way back from the Arctic. I'm at Space Camp. I'm exactly 30 miles away from the intersection of Beverly Boulevard and North La Cienega Boulevard. I'm about to play bubble football. I am in Greenwich. I am putting myself at risk of being sued. I am in New Orleans. I am at one of the tallest wind farms in Europe. I'm at a party. I'm at the Eureka Weather Station. I'm in the small village of Yelling. I am with Norm. I am back with Norm. Last time I was outside this pub with Norm, he taught me how to strangle someone. I'm in the English countryside near Canterbury, and this is a level crossing. I'm on the 19th floor of One Canada Square in London, and that is a gorgeous sunset. This is an Owenstone. This is a Teach Pendant. This is a Teasmade. This is London's cable car. This is a packet and bottle of freeze-dried urine. Behind me is Lake Constance. It is a big lake. This is a shipping container. This is a Soviet T-34 battle tank. This is a Deadman. This is a bottle of Dasani. This is the Mixed Reality Lab. This is a natural spring. This is Launch Pad 39. This is the control room. This is Notre Dame. This used to be RAF gravely. This is the Thames. This is the kilogram. Up there is the bridge. This is a driverless vehicle. This is non-brewed condiment. These are the solar power towers. That is the Angel of the North. This is the Illulissat Icefjord. This is Oculo Alto. This is Bruges. This is Hlanfahr Pwilchwin gilchogeryquin droblanti silio gogogogogog. Welcome to the town of asbestos. Welcome to Calipatria. Welcome to a town that doesn't exist. Welcome to Wales. The road behind me is closed. This is going to be a fairly disappointing video. I am back in the UK and I have a cold.
+
+
+language:
+en
+
+tempo: 77.969s
+Palavras erradas: 38 de 497
+Taxa de erro: 7.646%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base
+text:
+ I'm in Weldon Spring. I'm in Yevlite. I'm in the abandoned city of Pripyat. I'm inside one of the Inchendown oil tanks. I'm off to the Arctic for three weeks. I am not inside a fusion reactor. I'm in Hull. I'm in Morocco. I'm at Disney World. I'm in Resolute. I'm in an Airplane battery. I'm in an unpowered glider. I'm in Iceland. I'm standing in your report. I'm in the British Museum. I'm flying a few thousand feet over Lincolnshire. I'm at Platform 9 and 3 quarters. I'm under the English Channel. I am still in the Arctic. I'm in Gibraltar. I'm on Marlabone Road. I'm on Top of a Hill. I'm on 50th Street. I am squinting into the Sun. I'm on the Swan's Peninsula. I'm in Swindon. I'm in Baton Rouge. I'm in Barla Hurtog. I am outside the Bank of England. I'm in Cape May. I'm at the Computer History Museum. I am about to cross a road. I'm in Bristol. I'm at the summit of Mount Evans. I'm on my way back from the Arctic. I'm at Space Camp. I'm exactly 30 miles away from the intersection of Beverly Boulevard and North La Sienica Boulevard. I'm about to play......Bubble Football. I am in Greenwich. I'm putting myself at risk of being sued. I'm in New Orleans. I'm at one of the tallest wind farms in Europe. I'm at a party. I'm at the Eureka Weather Station. I'm in the small village of Yelling. I'm with Norm. I am back with Norm. Last time I was outside this pub with Norm, he told me how to strangle someone. I'm in the English countryside near Canterbury, and this is a level crossing. I'm on the 19th floor of one counter square in London, and that is a gorgeous sunset. This is an omen stone. This is a teach pendant. This is a tease made. This is London's cable car. This is a packet and bottle of freeze-dried urine. Behind me is Lake Constance. It is a big lake. This is a shipping container. This is a Soviet T-34 battle tank. This is a dead man. This is a bottle of discerning. This is the mixed reality lab. This is a natural spring. This is Launchpad 39. This is the control room. This is Notre Dame. This used to be RAF gravely. This is the tent. This is the kilogram. Up there is the bridge. This is a driverless vehicle. This is non-brewed condiment. These are the solar power towers. That is the angel of the North. This is the Elurisat Ice Fjord. This is Alkilowlton. This is Bruges. This is Hlandfab will Gwengell Koggeri-Kwin through a Balantissilio Gogo Goch. Welcome to the town of usbestos. Welcome to Calipatria. Welcome to a town that doesn't exist. Welcome to Wales. The road behind me is closed. This is going to be a fairly disappointing video. I am back in the UK and I have a cold.
+
+
+language:
+en
+
+tempo: 31.909s
+Palavras erradas: 68 de 497
+Taxa de erro: 13.682%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base.en
+text:
+ I'm in Weldon Spring. I'm in Yevlai. I'm in the abandoned city of Pripyat. I'm inside one of the Inch and Down oil tanks. I'm off to the Arctic for three weeks. I am not inside a fusion reactor. I'm in Hull. I'm in Morocco. I'm at Disney World. I'm in Resolute. I'm in an Airplane Battery. I'm in an unpowered glider. I'm in Iceland. I'm standing in Europort. I'm in the British Museum. I'm flying a few thousand feet over the Lincoln Show. I'm at Platform 9 3 quarters. I am under the English Channel. I am still in the Arctic. I'm in Gibraltar. I'm on Marlabone Road. I'm on Top of a Hill. I'm on 50th Street. I am squinting into the sun. I'm on the Swanscombe Peninsula. I'm in Swindon. I'm in Baton Rouge. I'm in Barla Hurton. I am outside the Bank of England. I'm in Cape May. I'm at the Computer History Museum. I am about to cross a road. I'm in Bristol. I'm at the summit of Mount Evans. I'm on my way back from the Arctic. I'm at Space Camp. I'm exactly 30 miles away from the intersection of Beverly Boulevard and North Lasiena Gebur Boulevard. I'm about to play bubble football. I am in Greenwich. I am putting myself at risk of being sued. I'm in New Orleans. I'm at one of the tallest wind farms in Europe. I'm at a party. I'm at the Eureka Weather Station. I'm in the small village of Yelling. I am with Norm. I am back with Norm. Last time I was outside this pub with Norm, he taught me how to strangle someone. I'm in the English countryside near Canterbury and this is a level crossing. I'm on the 19th floor of one Canada Square in London and that is a gorgeous sunset. This is an Oumstone. This is a Teach Pendant. This is a Teesmade. This is London's cable car. This is a packet and bottle of freeze-dried urine. Behind me is Lake Constance. It is a big lake. This is a shipping container. This is a Soviet T-34 battle tank. This is a dead man. This is a bottle of Dasani. This is the mixed reality lab. This is a natural spring. This is launch pad 39. This is the control room. This is Notre Dame. This used to be RAF gravely. This is the Thames. This is the kilogram. Up there is the bridge. This is a driverless vehicle. This is non-brewed condiment. These are the solar power towers. That is the Angel of the North. This is the Ilirosat Ice Fjord. This is Oculo-Otto. This is Bruges. This is Hanfire-Pul-Quingilcogary-Quin through Balanti-Cilio-Gogogog. Welcome to the town of asbestos. Welcome to Calipatria. Welcome to a town that doesn't exist. Welcome to Wales. The road behind me is closed. This is going to be a fairly disappointing video. I am back in the UK and I have a cold.
+
+
+language:
+en
+
+tempo: 30.714s
+Palavras erradas: 53 de 497
+Taxa de erro: 10.664%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium
+text:
+ I'm in Weldon Spring. I'm in Yevlei. I'm in the abandoned city of Pripyat. I'm inside one of the inching down oil tanks. I'm off to the Arctic for three weeks. I am not inside a fusion reactor. I'm in Hull. I am in Morocco. I am at Disney World. I'm in Resolute. I'm in an airplane bathroom. I am in an unpowered glider. I am in Iceland. I'm standing in Europort. I'm in the British Museum. I'm flying a few thousand feet over Lincolnshire. I'm at Platform Nine and Three Quarters. I am under the English Channel. I am still in the Arctic. I'm in Gibraltar. I'm on Marlabone Road. I'm on top of a hill. I'm on 50th Street. I am squinting into the sun. I'm on the Swanscombe Peninsula. I'm in Swindon. I am in Baton Rouge. I am in Barla Hurtog. I am outside the Bank of England. I'm in Cape May. I'm at the Computer History Museum. I am about to cross a road. I'm in Bristol. I'm at the summit of Mount Evans. I'm on my way back from the Arctic. I'm at Space Camp. I'm exactly 30 miles away from the intersection of Beverly Boulevard and North La Cienega Boulevard. I'm about to play bubble football. I am in Greenwich. I am putting myself at risk of being sued. I am in New Orleans. I am at one of the tallest wind farms in Europe. I am at a party. I'm at the Eureka Weather Station. I'm in the small village of Yelling. I am with Norm. I am back with Norm. Last time I was outside this pub with Norm, he taught me how to strangle someone. I'm in the English countryside near Canterbury, and this is a level crossing. I'm on the 19th floor of One Canada Square in London, and that is a gorgeous sunset. This is an owen stone. This is a teach pendant. This is a tees made. This is London's cable car. This is a packet and bottle of freeze-dried urine. Behind me is Lake Constance. It is a big lake. This is a shipping container. This is a Soviet T-34 battle tank. This is a dead man. This is a bottle of Dasani. This is the mixed reality lab. This is a natural spring. This is Launch Pad 39. This is the control room. This is Notre Dame. This used to be RAF Gravely. This is the Thames. This is the Kilogram. Up there is the bridge. This is a driverless vehicle. This is non-brewed condiment. These are the solar power towers. That is the Angel of the North. This is the Illulisat ice fjord. This is Al Quilo Alto. This is Bruges. This is Llanfair Pwylchwyn Gylchogery Gwyn, throbolanty syliogogogoch. Welcome to the town of Asbestos. Welcome to Calipatria. Welcome to a town that doesn't exist. Welcome to Wales. The road behind me is closed. This is going to be a fairly disappointing video. I am back in the UK and I have a cold.
+
+
+language:
+en
+
+tempo: 242.494s
+Palavras erradas: 31 de 497
+Taxa de erro: 6.237%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium.en
+text:
+ I'm in Weldon Spring. I'm in Yevle. I'm in the abandoned city of Pripyat. I'm inside one of the Inch-and-Down oil tanks. I'm off to the Arctic for three weeks. I am not inside a fusion reactor. I'm in Hull. I am in Morocco. I am at Disney World. I'm in Resolute. I'm in an airline bathroom. I am in an unpowered glider. I am in Iceland. I'm standing in Europort. I'm in the British Museum. I'm flying a few thousand feet over Lincolnshire. I'm at Platform Nine and Three-Quarters. I am under the English Channel. I am still in the Arctic. I'm in Gibraltar. I'm on Marylebone Road. I'm on top of a hill. I'm on 50th Street. I am squinting into the sun. I'm on the Swanscombe Peninsula. I'm in Swindon. I am in Baton Rouge. I am in Bala Hertog. I am outside the Bank of England. I'm in Cape May. I'm at the Computer History Museum. I am about to cross a road. I'm in Bristol. I'm at the summit of Mount Evans. I'm on my way back from the Arctic. I'm at Space Camp. I'm exactly 30 miles away from the intersection of Beverly Boulevard and North La Cienega Boulevard. I'm about to play bubble football. I am in Greenwich. I am putting myself at risk of being sued. I am in New Orleans. I am at one of the tallest wind farms in Europe. I'm at a party. I'm at the Eureka weather station. I'm in the small village of Yelling. I am with Norm. I am back with Norm. Last time I was outside this pub with Norm, he taught me how to strangle someone. I'm in the English countryside near Canterbury, and this is a level crossing. I'm on the 19th floor of 1 Canada Square in London, and that is a gorgeous sunset. This is an owum stone. This is a teach pendant. This is a teasmade. This is London's cable car. This is a packet and bottle of freeze-dried urine. Behind me is Lake Constance. It is a big lake. This is a shipping container. This is a Soviet T-34 battle tank. This is a dead man. This is a bottle of Dasani. This is the mixed reality lab. This is a natural spring. This is launch pad 39. This is the control room. This is Notre Dame. This used to be RAF Gravely. This is the Thames. This is the kilogram. Up there is the bridge. This is a driverless vehicle. This is non-brood condiment. These are the solar power towers. That is the Angel of the North. This is the Illilisat ice fjord. This is Ookiluoto. This is Bruges. This is Hlanfraer pwil gwyn gilchogery quyn, throbollanti syllogogogoch. Welcome to the town of Asbestos. Welcome to Calipatria. Welcome to a town that doesn't exist. Welcome to Wales. The road behind me is closed. This is going to be a fairly disappointing video. I am back in the UK and I have a cold.
+
+
+language:
+en
+
+tempo: 236.346s
+Palavras erradas: 35 de 497
+Taxa de erro: 7.042%
+--------------------------------------------------
+
+
+==================================================
+Amostra 6:
+Tamanho: 0.40mb
+Qtd. de palavras: 81
+Língua: inglês britânico
+Características: cadência normal de fala, múltiplas vozes
+
+And we reckon that when someone from the Albanian Mafia is choosing a new car, uppermost in his mind will be this. Can I get a dead body in the boot? Yes. So that's why the car has a boot. Yeah. Now, unfortunately, to find out which of the cars is best, we have had to murder a passerby. Yeah. And here he is. As you can see, he is quite a big chap, so he took a lot of murdering.
+--------------------------------------------------
+Modelo: tiny
+text:
+ And we reckon that when someone from the Albanian mafia is choosing a new car, up a most in his mind will be this. Can I get a dead body in the boot? Yes, it's a white car, has a boot. Yeah, unfortunately, to find out which of the cars is best, we have had to murder a pass-abye. Yeah, and here it is. As you can see, he is quite a big chap, so he took a lot of murdering.
+
+
+language:
+en
+
+tempo: 3.804s
+Palavras erradas: 8 de 81
+Taxa de erro: 9.877%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: tiny.en
+text:
+ And we reckon that when someone from the Albanian Mafia is choosing a new car, uppermost in his mind will be this. Can I get a dead body in the boot? Yes, thanks. That's why the car has a boot. Yeah, now, unfortunately, to find out which of the cars is best, we have had to murder a passerby. Yeah. And here he is. As you can see, he is quite a big chap, so he took a lot of murder.
+
+
+language:
+en
+
+tempo: 3.111s
+Palavras erradas: 2 de 81
+Taxa de erro: 2.469%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small
+text:
+ And we reckon that when someone from the Albanian mafia is choosing a new car, uppermost in his mind will be this. Can I get a dead body in the boot? Yes. That's why the car has a boot. Now, unfortunately, to find out which of the cars is best, we have had to murder a passerby. Yeah. And here he is. As you can see, he is quite a big chap, so he took a lot of murdering.
+
+
+language:
+en
+
+tempo: 17.916s
+Palavras erradas: 2 de 81
+Taxa de erro: 2.469%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small.en
+text:
+ And we reckon that when someone from the Albanian Mafia is choosing a new car, uppermost in his mind will be this. Can I get a dead body in the boot? Makes sense. That's why the car has a boot. Now, unfortunately, to find out which of the cars is best, we have had to murder a passerby. Yeah, and here he is. As you can see, he is quite a big chap, so he took a lot of murdering.
+
+
+language:
+en
+
+tempo: 14.244s
+Palavras erradas: 3 de 81
+Taxa de erro: 3.704%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base
+text:
+ And we reckon that when someone from the Albanian mafia is choosing a new car, up a most in his mind will be this. Can I get a dead body in the boot? Yes, that's true. So, that's why the car has a boot? Yeah, now, unfortunately, to find out which of the cars is best, we have had to murder a passerby. Yeah, and here he is. As you can see, he is quite a big chap, so he took a lot of murdering.
+
+
+language:
+en
+
+tempo: 6.964s
+Palavras erradas: 1 de 81
+Taxa de erro: 1.235%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base.en
+text:
+ And we reckon that when someone from the Albanian Mafia is choosing a new car, uppermost in his mind will be this. Can I get a dead body in the boot? Yes, that's why the car has a boot. Now, unfortunately, to find out which of the cars is best, we have had to murder a passerby. Yeah. And here he is. As you can see, he's quite a big chap, so he took a lot of murder.
+
+
+language:
+en
+
+tempo: 5.486s
+Palavras erradas: 5 de 81
+Taxa de erro: 6.173%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium
+text:
+ And we reckon that when someone from the Albanian Mafia is choosing a new car, uppermost in his mind will be this. Can I get a dead body in the boot? Yes. So that's why the car has a boot. Yeah. Now, unfortunately, to find out which of the cars is best, we have had to murder a passerby. Yeah. And here he is. As you can see, he is quite a big chap, so he took a lot of murdering.
+
+
+language:
+en
+
+tempo: 53.192s
+Palavras erradas: 0 de 81
+Taxa de erro: 0.000%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium.en
+text:
+ And we reckon that when someone from the Albanian Mafia is choosing a new car, uppermost in his mind will be this. Can I get a dead body in the boot? Yes. So it's why the car has a boot. Yeah. Now, unfortunately, to find out which of the cars is best, we have had to murder a passer-by. Yeah. And here he is. As you can see, he is quite a big chap, so he took a lot of murdering.
+
+
+language:
+en
+
+tempo: 47.560s
+Palavras erradas: 1 de 81
+Taxa de erro: 1.235%
+--------------------------------------------------
+
+
+==================================================
+Amostra 7:
+Tamanho: 0.13mb
+Qtd. de palavras: 21
+Língua: inglês britânico
+Características: alto nível de ruído, cadência rápida, interrupção de fala
+
+All the automotive giants haven't thought to make a car like this, and yet a pokey little motoring show on BB
+--------------------------------------------------
+Modelo: tiny
+text:
+ All the awesome engine giants haven't thought to make a car like this and yet a popular little motor in shell on BB
+
+
+language:
+en
+
+tempo: 1.601s
+Palavras erradas: 4 de 21
+Taxa de erro: 19.048%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: tiny.en
+text:
+ All the automotive giants haven't thought to make a car like this and yet a poke a little should fall away.
+
+
+language:
+en
+
+tempo: 5.147s
+Palavras erradas: 5 de 21
+Taxa de erro: 23.810%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small
+text:
+ All the automotive giants haven't thought to make a car like this and yet a pokey little Are you guys ready.
+
+
+language:
+en
+
+tempo: 29.241s
+Palavras erradas: 4 de 21
+Taxa de erro: 19.048%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small.en
+text:
+ All the automotive giants haven't thought to make a car like this and yet a pokey little uh later in the show on the bb
+
+
+language:
+en
+
+tempo: 8.559s
+Palavras erradas: 1 de 21
+Taxa de erro: 4.762%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base
+text:
+ All the automotive giants haven't thought to make a car like this in yet. Hy<|mi|><|translate|> A poked little motor in the shower and baby
+
+
+language:
+en
+
+tempo: 12.369s
+Palavras erradas: 5 de 21
+Taxa de erro: 23.810%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base.en
+text:
+ All the automotive giants haven't thought to make a car like this and yet a poky little motoring shell on BB
+
+
+language:
+en
+
+tempo: 1.797s
+Palavras erradas: 2 de 21
+Taxa de erro: 9.524%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium
+text:
+...all the automotive giants haven't thought to make a car like this and yet a pokey little motor show on BB...
+
+
+language:
+en
+
+tempo: 28.674s
+Palavras erradas: 1 de 21
+Taxa de erro: 4.762%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium.en
+text:
+ The automotive giant haven't thought to make a car like this and yet a pokey little motoring show on BB-
+
+
+language:
+en
+
+tempo: 20.009s
+Palavras erradas: 2 de 21
+Taxa de erro: 9.524%
+--------------------------------------------------
+
+
+==================================================
+Amostra 8:
+Tamanho: 0.35mb
+Qtd. de palavras: 85
+Língua: Inglês britânico
+Características: ruído e cadência de fala normais, qualidade de áudio razoável
+
+Jeremy, now this is really quite simple, OK. Understeer works like this. You drive down the road, you turn the wheel, but the car goes straight on, crashes into a tree, and you die. Oversteer works like this. You drive down the same bit of road, turn the wheel, but the back of the car comes round like this, and you go off the road, crash into a tree, and you die. Now, oversteer is best because you don't see the tree that kills you.
+--------------------------------------------------
+Modelo: tiny
+text:
+ Now this is really quite simple. OK, under steer works like this. You drive down the road, you turn the wheel, but the car goes straight on, crashes into a tree and you die. Over steer works like this. You drive down the same bit of road, turn the wheel, but the back of the car comes around like this, and you go off the road, crashing to a tree and you die. Now over steer is best because you don't see the tree that kills you.
+
+
+language:
+en
+
+tempo: 4.051s
+Palavras erradas: 7 de 85
+Taxa de erro: 8.235%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: tiny.en
+text:
+ Now this is really quite simple, OK? Understeer works like this. You drive down the road, you turn the wheel, but the car goes straight on, crashes into a tree, and you die. Oversteer works like this. You drive down the same bit of road, turn the wheel, but the back of the car comes round like this, and you go off the road, crash into a tree, and you die. Now, oversteer is best because you don't see the tree that kills you.
+
+
+language:
+en
+
+tempo: 3.561s
+Palavras erradas: 1 de 85
+Taxa de erro: 1.176%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small
+text:
+ Jeremy, now this is really quite simple, okay. Understeer works like this. You drive down the road, you turn the wheel, but the car goes straight on, crashes into a tree, and you die. Oversteer works like this. You drive down the same bit of road, turn the wheel, but the back of the car comes around like this, and you go off the road, crash into a tree, and you die. Now, oversteer is best because you don't see the tree that kills you.
+
+
+language:
+en
+
+tempo: 17.951s
+Palavras erradas: 2 de 85
+Taxa de erro: 2.353%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small.en
+text:
+ Now this is really quite simple, OK. Understeer works like this. You drive down the road, you turn the wheel, but the car goes straight on, crashes into a tree, and you die. Oversteer works like this. You drive down the same bit of road, turn the wheel, but the back of the car comes round like this, and you go off the road, crash into a tree, and you die. Now, oversteer is best because you don't see the tree that kills you.
+
+
+language:
+en
+
+tempo: 14.843s
+Palavras erradas: 1 de 85
+Taxa de erro: 1.176%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base
+text:
+ Now this is really quite simple. Okay, understeer works like this. You drive down the road, you turn the wheel, but the car goes straight on, crashes into a tree and you die. Oversteer works like this. You drive down the same bit of road, turn the wheel, but the back of the car comes round like this, and you go off the road, crashing into a tree and you die. Now, oversteer is best because you don't see the tree that kills you.
+
+
+language:
+en
+
+tempo: 6.522s
+Palavras erradas: 3 de 85
+Taxa de erro: 3.529%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base.en
+text:
+ Now this is really quite simple, OK? Understeer works like this. You drive down the road, you turn the wheel, but the car goes straight on, crashes into a tree, and you die. Oversteer works like this. You drive down the same bit of road, turn the wheel, but the back of the car comes around like this, and you go off the road, crash into a tree, and you die. Now, oversteer is best because you don't see the tree that kills you.
+
+
+language:
+en
+
+tempo: 5.721s
+Palavras erradas: 2 de 85
+Taxa de erro: 2.353%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium
+text:
+ Jeremy, now this is really quite simple, okay. Understeer works like this, you drive down the road, you turn the wheel, but the car goes straight on, crashes into a tree, and you die. Oversteer works like this, you drive down the same bit of road, turn the wheel, but the back of the car comes around like this, and you go off the road, crash into a tree, and you die. Now, oversteer is best because you don't see the tree that kills you.
+
+
+language:
+en
+
+tempo: 57.430s
+Palavras erradas: 2 de 85
+Taxa de erro: 2.353%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium.en
+text:
+ Jeremy, now this is really quite simple, okay. Understeer works like this. You drive down the road, you turn the wheel, but the car goes straight on, crashes into a tree, and you die. Oversteer works like this. You drive down the same bit of road, turn the wheel, but the back of the car comes round like this, and you go off the road, crash into a tree, and you die. Now, oversteer is best because you don't see the tree that kills you.
+
+
+language:
+en
+
+tempo: 69.053s
+Palavras erradas: 1 de 85
+Taxa de erro: 1.176%
+--------------------------------------------------
+
+
+==================================================
+Amostra 9:
+Tamanho: 0.50mb
+Qtd. de palavras: 87
+Língua: inglês britânico
+Características: ruído e cadência de fala normais, qualidade de áudio razoável, trechos com múltiplas vozes
+
+
+They were out and about the other day, catching people speeding on the river. What? Where the speed limit, we were told, is 7.4 kilometres an hour. What's that? Four and a half? Four and a half. That's walking pace. I could swim faster than that. They're going to be prosecuting poo sticks. That stick is speeding. It's this obsession everybody's got now that speed kills. It doesn't. Speed has never killed anyone. Suddenly becoming stationary. That's what gets you. That's the killer. That will do it.
+--------------------------------------------------
+Modelo: tiny
+text:
+ They were out about the other day catching people speeding on the river The speed limit we were told is 7.4 kilometers an hour. What's that for an hour? Fucking pain I could swim faster than that. They're gonna be prosecuting poostics Swinging yeah, it's this obsession everybody's got now that speed kills it doesn't speed has never killed anyone Suddenly become in station rig that's what gets you That's the kill that we'll do it. Yeah
+
+
+language:
+en
+
+tempo: 3.883s
+Palavras erradas: 27 de 87
+Taxa de erro: 31.034%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: tiny.en
+text:
+ They were out about the other day catching people speeding on the river. What? The speed limits, we were told, is 7.4 kilometres an hour. What's that, foreigner? Four and a half. A fucking pay. I could swim faster than that. They're going to be prosecuting poo sticks. Backslip, backslip, and speeding. Yeah, it's this obsession everybody's got now that speed kills. It doesn't. Speed has never killed anyone. Suddenly become in stationery. That's what gets you. That's the kill. That will do it.
+
+
+language:
+en
+
+tempo: 4.027s
+Palavras erradas: 14 de 87
+Taxa de erro: 16.092%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small
+text:
+ They were out and about the other day catching people speeding on the river The speed limits we were told is 7.4 kilometers an hour. What's that for and a for an offer looking paint? I could swim faster than that. They're gonna be prosecuting poostics Speeding it's this obsession everybody's got now that speed kills it doesn't speed has never killed anyone Suddenly becoming stationary. That's what gets That will do it
+
+
+language:
+en
+
+tempo: 18.402s
+Palavras erradas: 24 de 87
+Taxa de erro: 27.586%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small.en
+text:
+ They were out and about the other day, catching people's speed in on the river. What? Where the speed limit, we were told, is 7.4 kilometres an hour. What's that? Four and a half? Four and a half. That's fucking pain. I can swim faster than that. They're going to be prosecuting poo sticks. That stick is speeding. It's this obsession everybody's got now that speed kills. It doesn't. Speed has never killed anyone. Suddenly becoming stationary. That's what? That's the kill. That will do it.
+
+
+language:
+en
+
+tempo: 18.385s
+Palavras erradas: 8 de 87
+Taxa de erro: 9.195%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base
+text:
+ They were out the other day catching people's speeding on the river. Why? Well, the speed limit, we would tell this 7.4 kilometres an hour, what's that? Four and a half. Fucking pain. I could swim faster than that. They're going to be prosecuting pooh sticks. That is speeding. Yeah, it's this obsession that everybody's got now that speed kills. It doesn't. Speed has never killed anyone. It's suddenly becoming stationary. That's what gets you. That will do it.
+
+
+language:
+en
+
+tempo: 8.168s
+Palavras erradas: 20 de 87
+Taxa de erro: 22.989%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base.en
+text:
+ They were out about the other day, catching people speeding on the river. What? The speed limit, we were told, is 7.4 kilometres an hour. What's that? Four and a half. Four and a half. I'm looking pain. I could swim faster than that. They're going to be prosecuting poostics. That's it. He's speeding. It's this obsession everybody's got now that speed kills. It doesn't. Speed has never killed anyone. Suddenly becoming stationary. That's what gets you. That's what gets you. That's the kill. I will do it.
+
+
+language:
+en
+
+tempo: 7.342s
+Palavras erradas: 11 de 87
+Taxa de erro: 12.644%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium
+text:
+ They were out and about the other day catching people speeding on the river. What? Where the speed limit, we were told, is 7.4 kilometres an hour. What's that, four and a half? What's walking pace? I could swim faster than that. They're going to be prosecuting poo sticks. That's speeding. It's this obsession everybody's got now that speed kills. It doesn't. Speed has never killed anyone. Suddenly becoming stationary. That's what gets you. That's the killer. That will do it.
+
+
+language:
+en
+
+tempo: 69.658s
+Palavras erradas: 7 de 87
+Taxa de erro: 8.046%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium.en
+text:
+ They were out and about the other day catching people speeding on the river. What? Well, the speed limit, we were told, is 7.4 kilometres an hour. What's that, four and a half? That's walking pace. I could swim faster than that. They're going to be prosecuting poo sticks. That's speeding. It's this obsession everybody's got now that speed kills. It doesn't. Speed has never killed anyone. It's suddenly becoming stationary. That's what gets you. That's the killer. That will do it.
+
+
+language:
+en
+
+tempo: 59.217s
+Palavras erradas: 8 de 87
+Taxa de erro: 9.195%
+--------------------------------------------------
+
+
+==================================================
+Amostra 10:
+Tamanho: 0.33mb
+Qtd. de palavras: 20
+Língua: inglês britânico
+Características: ruído e cadência de fala normais, qualidade de áudio razoável, trecho com ruído e múltiplas vozes
+
+I am walking on water now. You're standing on it. Walk over there. Yeah. Miraculous, that, mate. I've invented swimming!
+--------------------------------------------------
+Modelo: tiny
+text:
+ I am walking on water now. Just standing on it. Walk over there. Yeah. Miraculous animal. I've invented swimming! Oh, my God.
+
+
+language:
+en
+
+tempo: 3.109s
+Palavras erradas: 3 de 20
+Taxa de erro: 15.000%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: tiny.en
+text:
+ I am walking on water now. Just standing on it. Walk over there. Yeah. Miraculous, that way. I've invented swimming! Love you!
+
+
+language:
+en
+
+tempo: 5.327s
+Palavras erradas: 2 de 20
+Taxa de erro: 10.000%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small
+text:
+ I am walking on water now. You're standing on it. Walk over there. Yeah. Miraculous, that, mate. I've invented swimming! Oh, God.
+
+
+language:
+en
+
+tempo: 13.074s
+Palavras erradas: 0 de 20
+Taxa de erro: 0.000%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small.en
+text:
+ I am walking on water now. You're standing on it. Walk over there. Yeah. Miraculous, there, mate. I've invented swimming! Oh, God.
+
+
+language:
+en
+
+tempo: 9.633s
+Palavras erradas: 1 de 20
+Taxa de erro: 5.000%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base
+text:
+ I am walking on water now. You're standing on it. Walk over there. Yeah. Miraculous, that, mate. You have invented swimming.
+
+
+language:
+en
+
+tempo: 4.797s
+Palavras erradas: 1 de 20
+Taxa de erro: 5.000%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base.en
+text:
+ I am walking on water now. You're standing on it. Walk over there. Yeah. Miraculous, am I? I've invented swimming.
+
+
+language:
+en
+
+tempo: 3.356s
+Palavras erradas: 2 de 20
+Taxa de erro: 10.000%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium
+text:
+ I am walking on water now. You're standing on it. Walk over there. Yeah. Miraculous, that, mate. I've invented swimming!
+
+
+language:
+en
+
+tempo: 43.266s
+Palavras erradas: 0 de 20
+Taxa de erro: 0.000%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium.en
+text:
+ I am walking on water now. You're standing on it. Walk over there. Yeah. Miraculous, that, mate. I've invented swimming!
+
+
+language:
+en
+
+tempo: 36.742s
+Palavras erradas: 0 de 20
+Taxa de erro: 0.000%
+--------------------------------------------------
+
+
+==================================================
+Amostra 11:
+Tamanho: 2.20mb
+Qtd. de palavras: 312
+Língua: inglês britânico
+Características: alto nível de ruídos, sotaque, nomes próprios
+
+When Napoleon lay at Boulogne for a year with his flat-bottomed boats and his Grand Army, he was told by someone. “There are bitter weeds in England.” There are certainly a great many more of them since the British Expeditionary Force returned. I have, myself, full confidence that if all do their duty, if nothing is neglected, and if the best arrangements are made, as they are being made, we shall prove ourselves once again able to defend our Island home, to ride out the storm of war, and to outlive the menace of tyranny, if necessary for years, if necessary alone. At any rate, that is what we are going to try to do. That is the resolve of His Majesty’s Government, every man of them. That is the will of Parliament and the nation. The British Empire and the French Republic, linked together in their cause and in their need, will defend to the death their native soil, aiding each other like good comrades to the utmost of their strength. We shall go on to the end, we shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our Island, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender, and if, which I do not for a moment believe, this Island or a large part of it were subjugated and starving, then our Empire beyond the seas, armed and guarded by the British Fleet, would carry on the struggle, until, in God’s good time, the New World, with all its power and might, steps forth to the rescue and the liberation of the old.
+--------------------------------------------------
+Modelo: tiny
+text:
+ When Napoleon laid Bulloin for a year with his fat bottom boats and his grand army, he was told by someone that are bitter, weak, sitting in them. They are certainly a great many more of them since the British expedition reports returned. Sir, I have myself full confidence that you've all do that duty. If nothing is neglected and if the best arrangement are made, as they are being made, we should prove ourselves once more able to defend our island home to ride out the storm of war and to our lives of menace of tyranny if necessary beers. If necessary alone. But then you rate that it what we are going to try to do. That is the result of its magnificent government, every man of them. That is the will of Parliament and the nation. If you have found the French Republic linked together in their court and in their need, we'll defend to the death of our native soil, eating each other like good comrades to the atmosphere to their strength. We shall go on to the end. We shall fight in France, we shall fight on the seas and oceans. We shall fight with growing confidence and growing strength in the air. We shall defend our island, whatever they can't say, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets. We shall fight in the hills. We shall never surrender. And if I do not for a moment believe this island or large part of it, we shall suffocate it and starving, then our empire beyond the seas, armed and guarded by the British fleet would carry on the struggle until in God's good time. The new world will all its power might step forth to the rescue and the liberation of the old.
+
+
+language:
+en
+
+tempo: 15.076s
+Palavras erradas: 44 de 312
+Taxa de erro: 14.103%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: tiny.en
+text:
+ When Napoleon led Boulain for a year with his fat bottom boats and his grand army, he was told by someone that are bitter weeds in England. They are certainly a great many more of them since the British expeditionary force returned. Sir, I have myself full confidence that you've all do that duty. If nothing is neglected and if the best arrangements are made, as they are being made, we should prove ourselves once more able to defend our island home, to ride out the storm of war and to our beliefs of menace of tyranny, if necessary veers, if necessary alone. At any rate, then it's not going to try to do. That is a result of its magnificent government, every man of them. That is a will of Parliament and the nation. The British Empire and the French Republic linked together in their court and in their need, will defend to the death of an native soil, aiding each other like good comrades to the utmost of their strength. We shall go on to the end. We shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air. We shall defend our island, whatever the cuts may be. We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills. We shall never surrender, and if, because I do not for a moment believe, this island or large part of it, was subjugated and starving, then our empire beyond the seas, thommed and guarded by the belief-free, would carry on the struggle until in God's good time, the new world will all its power in might, steps forth to the rescue and the liberation of the old.
+
+
+language:
+en
+
+tempo: 9.828s
+Palavras erradas: 36 de 312
+Taxa de erro: 11.538%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small
+text:
+ When Napoleon laid Boulogne for a year with his flat bottom boats and his grand army, he was told by someone, there are bitter weeds in England. There are certainly a great many more of them since the British expeditionary force returned. Sir, I have my self-ful confidence that if all do their duty, if nothing is neglected and if the best arrangements are made as they are being made, we should prove ourselves once more able to defend our island home, to ride out the storm of war and to our lives of menace of tyranny, if necessary, for years, if necessary, alone. At any rate, that is what we are going to try to do. That is the result of his majesty and government, every man of them. That is the will of parliament and the nation. The British Empire and the French Republic, linked together in their cause and in their need, will defend to the death their native soil, aiding each other like good comrades to the utmost of their strength. We shall go on to the end. We shall fight in France. We shall fight on the seas and oceans. We shall fight with growing confidence and growing strength in the air. We shall defend our island, whatever the cost may be. We shall fight on the beaches. We shall fight on the landing grounds. We shall fight in the fields and in the streets. We shall fight in the hills. We shall never surrender and if, which I do not for a moment believe, this island or large part of it were subjugated and starving, then our empire beyond the seas, armed and guarded by the British fleet, would carry on the struggle until in God's good time, the new world with all its power might steps forth to the rescue and the liberation of the old.
+
+
+language:
+en
+
+tempo: 48.869s
+Palavras erradas: 16 de 312
+Taxa de erro: 5.128%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: small.en
+text:
+ When Napoleon laid bulloyne for a year with his fat bottom boats and his grand army, he was told by someone, there are bitter weeds in England. There are certainly a great many more of them since the British Expeditionary Force returned. Sir, I have my selfful confidence that if all do their duty, if nothing is neglected and if the best arrangements are made, as they are being made, we shall prove ourselves once more able to defend our island home, to ride out the storm of war, and to outlive the malice of tyranny if necessary for years, if necessary alone. At any rate, that is what we are going to try to do. That is resolve of his majesty and government, every man of them. That is the will of Parliament and the nation. The British Empire and the French Republic, linked together in their cause and in their need, will defend to the death their native soil, aiding each other like good comrades to the utmost of their strength. We shall go on to the end. We shall fight in France. We shall fight on the seas and oceans. We shall fight with growing confidence and growing strength in the air. We shall defend our island, whatever the cost may be. We shall fight on the beaches. We shall fight on the landing grounds. We shall fight in the fields and in the streets. We shall fight in the hills. We shall never surrender. And if, which I do not for a moment believe, this island or large part of it was subjugated and starving, then our empire beyond the seas, armed and guarded by the British fleet, would carry on the struggle until in God's good time, the new world with all its power and might steps forth to the rescue and the liberation of the old.
+
+
+language:
+en
+
+tempo: 46.992s
+Palavras erradas: 16 de 312
+Taxa de erro: 5.128%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base
+text:
+ When Napoleon laid Boulogne for a year with his fat bottom boats and his grand army, he was told by someone, there are bitter weeds in England. There are certainly a great many more of them than the British Expeditionary Force returned. Sir, I have my self-ful confidence that if all do their duty, if nothing is neglected and if the best arrangements are made, as they are being made, we should prove ourselves once more able to defend our island home, to ride out the storm of war and to have lived the menace of tyranny if necessary, veers if necessary alone. At any rate, that is what we are going to try to do. That is the result of its majesty in government, every man of them. That is the will of Parliament and the nation. The British Empire and the French Republic link together in their court and in their need. We'll defend to the death of their native soil, aiding each other like good comrades to the utmost of their strength. We shall go on to the end. We shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our island, whatever the cast may be. We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills. We shall never surrender and if, because I do not for a moment believe, this island or large part of it, was subjugated and starving, then our empire beyond the seas, thrombed and guarded by the belief-free, would carry on the struggle until in God's good time. The new world with all its power might step forth to the rescue and the liberation of the old.
+
+
+language:
+en
+
+tempo: 26.492s
+Palavras erradas: 30 de 312
+Taxa de erro: 9.615%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: base.en
+text:
+ When Napoleon laid bouillon for a year with his fat bottom boats and his grand army, he was told by someone, there are bitter weeds in England. There are certainly a great many more of them since the British expeditionary force returned. Sir, I have my self-full confidence that if all do their duty, if nothing is neglected, and if the best arrangements are made, as they are being made, we should prove ourselves once more able to defend our island home to ride out the storm of war and to our lives of menace of tyranny if necessary veers if necessary alone. At any rate, that is what we are going to try to do. That is the result of its majesty's government, every man of them. That is the will of Parliament and the nation. The British Empire and the French Republic linked together in their course and in their need will defend to the deaths of their native soil, aiding each other like good comrades to the utmost of their strength. We shall go on to the end. We shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air. We shall defend our island, whatever the costs may be. We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills. We shall never surrender and if, because I do not for a moment believe, this island or large part of it were subjugated and starving, then our empire beyond the seas, armed and guarded by the British fleet would carry on the struggle until in God's good time, the new world with all its power in mind, steps forth to the rescue and the liberation of the old.
+
+
+language:
+en
+
+tempo: 19.154s
+Palavras erradas: 26 de 312
+Taxa de erro: 8.333%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium
+text:
+ When Napoleon laid Boulogne for a year with his flat bottom boats and his grand army, he was told by someone, there are bitter weeds in England. There are certainly a great many more of them since the British expeditionary force returned. Sir, I have myself full confidence that if all do their duty, if nothing is neglected, and if the best arrangements are made, as they are being made, we should prove ourselves once more able to defend our island home, to ride out the storm of war, and to outlive the menace of tyranny, if necessary, for years, if necessary, alone. At any rate, that is what we are going to try to do. Mine is the resolve of his majesty government, every man of them. That is the will of Parliament and the nation. The British Empire and the French Republic, linked together in their cause and in their need, will defend to the death their native soil, aiding each other like good comrades to the utmost of their strength. We shall go on to the end. We shall fight in France. We shall fight on the seas and oceans. We shall fight with growing confidence and growing strength in the air. We shall defend our island, whatever their cost may be. We shall fight on the beaches. We shall fight on the landing grounds. We shall fight in the fields and in the streets. We shall fight in the hills. We shall never surrender. And if, which I do not for a moment believe, this island or a large part of it were subjugated and starving, then our empire, beyond the seas, armed and guarded by the British fleet, would carry on the struggle until, in God's good time, the new world, with all its power and might, steps forth to the rescue and the liberation of the old.
+
+
+language:
+en
+
+tempo: 153.189s
+Palavras erradas: 12 de 312
+Taxa de erro: 3.846%
+--------------------------------------------------
+
+
+--------------------------------------------------
+Modelo: medium.en
+text:
+ When Napoleon laid Boulogne for a year with his flat-bottomed boats and his grand army, he was told by someone, there are bitter weeds in England. There are certainly a great many more of them since the British Expeditionary Force returned. Sir, I have myself full confidence that if all do their duty, if nothing is neglected, and if the best arrangements are made, as they are being made, we shall prove ourselves once more able to defend our island home, to ride out the storm of war, and to outlive the menace of tyranny, if necessary for years, if necessary alone. At any rate, that is what we are going to try to do. That is the resolve of His Majesty's Government, every man of them. That is the will of Parliament and the nation. The British Empire and the French Republic, linked together in their cause and in their need, will defend to the death their native soil, aiding each other like good comrades to the utmost of their strength. We shall go on to the end. We shall fight in France. We shall fight on the seas and oceans. We shall fight with growing confidence and growing strength in the air. We shall defend our island, whatever the cost may be. We shall fight on the beaches. We shall fight on the landing grounds. We shall fight in the fields and in the streets. We shall fight in the hills. We shall never surrender. If, which I do not for a moment believe, this island, or a large part of it, were subjugated and starving, then our Empire, beyond the seas, armed and guarded by the British fleet, would carry on the struggle until, in God's good time, the New World, with all its power and might, steps forth to the rescue and the liberation of the old.
+
+
+language:
+en
+
+tempo: 143.500s
+Palavras erradas: 9 de 312
+Taxa de erro: 2.885%
+--------------------------------------------------
+
+
